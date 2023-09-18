@@ -1,7 +1,7 @@
 欢迎来到阿姆的网站
 <html>
 <head>
-    <title>跳转到 GitHub</title>
+    <title>mu的网站</title>
     <style>
       body{
 
