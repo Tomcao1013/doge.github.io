@@ -1,5 +1,4 @@
 欢迎来到阿姆的网站
-<!DOCTYPE html>
 <html>
 <head>
     <title>跳转到 GitHub</title>
